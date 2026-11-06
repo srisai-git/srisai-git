@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./SRI SAI AI Data Science Banner.png"
+       width="100%"
+       alt="Sri Sai - AI & Data Science"/>
+</p>
 
 ## About Me
 
