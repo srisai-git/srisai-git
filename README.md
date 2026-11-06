@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sri-sai-header.png"
+  <img src="./SRI SAI AI Data Science Banner.png"
        width="100%"
        alt="Sri Sai - AI & Data Science"/>
 </p>
