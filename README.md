@@ -1,56 +1,42 @@
 <div align="center">
-  <svg width="780" height="190" viewBox="0 0 780 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Gradients -->
-      <linearGradient id="cyber-border" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.8"/>
-        <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.2"/>
-        <stop offset="100%" stop-color="#EC4899" stop-opacity="0.8"/>
-      </linearGradient>
-      <linearGradient id="cyber-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0F091F"/>
-        <stop offset="100%" stop-color="#05030A"/>
-      </linearGradient>
-      <linearGradient id="neon-text" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#C084FC"/>
-        <stop offset="50%" stop-color="#818CF8"/>
-        <stop offset="100%" stop-color="#38BDF8"/>
-      </linearGradient>
-
-      <!-- Glow Filters -->
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <!-- Main Card Body -->
-    <rect x="15" y="15" width="750" height="160" rx="14" fill="url(#cyber-bg)" stroke="url(#cyber-border)" stroke-width="1.5"/>
-
-    <!-- Corner Circuit Accents -->
-    <path d="M 15 35 L 15 15 L 35 15" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
-    <path d="M 765 35 L 765 15 L 745 15" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
-    <path d="M 15 155 L 15 175 L 35 175" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
-    <path d="M 765 155 L 765 175 L 745 175" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
-
-    <!-- Top Status Bar -->
-    <circle cx="42" cy="40" r="4" fill="#10B981" filter="url(#glow)"/>
-    <text x="56" y="44" fill="#94A3B8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" letter-spacing="2">SYS.NODE // ONLINE • QUANTUM_CORE_V2.6</text>
-    <text x="735" y="44" fill="#6B7280" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" text-anchor="end" letter-spacing="1">ID: 0x7E3_SRISAI</text>
-    <line x1="35" y1="56" x2="745" y2="56" stroke="#2D1B4E" stroke-width="1"/>
-
-    <!-- Main Identity Header -->
-    <text x="40" y="96" fill="url(#neon-text)" font-family="'Space Grotesk', -apple-system, sans-serif" font-weight="900" font-size="30" letter-spacing="2" filter="url(#glow)">P. SRISAI</text>
-    <text x="215" y="95" fill="#6366F1" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="600">[SYS_ARCHITECT]</text>
-
-    <!-- Embedded High-Tech SVG Typing Stream -->
-    <g transform="translate(40, 115)">
-      <image href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=1000&color=A78BFA&background=00000000&vCenter=true&width=680&height=35&lines=%3E%3E+INITIALIZING+NEURAL+PIPELINE...+[READY];%3E%3E+ARCHITECTING+NEXT-GEN+ANDROID+%26+DISTRIBUTED+SYSTEMS;%3E%3E+ACTIVE_PROJECT%3A+FLOW+%E2%80%94+DEEP+WORK+OPERATING+SYSTEM;%3E%3E+STACK%3A+KOTLIN+%E2%80%A2+COMPOSE+%E2%80%A2+FASTAPI+%E2%80%A2+HILT+%E2%80%A2+ROOM" width="680" height="35"/>
-    </g>
-  </svg>
+  <table border="0" cellpadding="0" cellspacing="0" style="background: radial-gradient(circle at 10% 10%, #1f1238 0%, #08060c 90%); border: 1.5px solid #4c2889; border-radius: 16px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.25), inset 0 0 15px rgba(139, 92, 246, 0.1); width: 100%; max-width: 800px;">
+    <tr>
+      <td style="padding: 16px 24px 10px 24px;">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <!-- Left HUD Indicators -->
+            <td align="left">
+              <span style="display: inline-block; width: 7px; height: 7px; background: #00F0FF; border-radius: 50%; box-shadow: 0 0 8px #00F0FF; margin-right: 6px;"></span>
+              <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #818CF8; letter-spacing: 2.5px; font-weight: 700;">DEV_TERMINAL // AUTH_ACTIVE</span>
+            </td>
+            <!-- Right Telemetry -->
+            <td align="right">
+              <span style="border: 1px solid #6366F1; padding: 2px 8px; border-radius: 4px; font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #C084FC; letter-spacing: 1px;">LATENCY: 12ms</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 4px 24px 8px 24px;">
+        <div style="height: 1px; width: 100%; background: linear-gradient(90deg, #8B5CF6 0%, rgba(59, 130, 246, 0.3) 50%, transparent 100%);"></div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding: 10px 24px 4px 24px;">
+        <span style="font-family: 'Space Grotesk', sans-serif; font-size: 32px; font-weight: 900; letter-spacing: 3px; color: #FFFFFF; text-shadow: 0 0 15px rgba(167, 139, 250, 0.7);">
+          P. SRISAI <span style="font-size: 14px; font-family: 'JetBrains Mono', monospace; color: #00F0FF; vertical-align: middle; margin-left: 8px;">[ENGINEER]</span>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding: 0px 24px 20px 24px;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=38BDF8&center=false&vCenter=true&width=720&height=35&lines=%E2%96%B6+deploying+scalable+native+android+solutions;%E2%96%B6+creator+of+Flow+%E2%80%94+engineering+focus+%26+mindful+state;%E2%96%B6+synthesizing+jetpack+compose%2C+python+backends+%26+groot+ai;%E2%96%B6+optimizing+algorithmic+efficiency+%26+system+latency" alt="Terminal Matrix Typing" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## About Me
