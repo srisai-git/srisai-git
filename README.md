@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="./sri-sai-animated-header.gif"
-       alt="Sri Sai — AI & Data Science Student and Developer"
-       width="100%" />
+  <img src="./sri-sai-header.png"
+       width="100%"
+       alt="Sri Sai - AI & Data Science"/>
 </p>
----
-
 ## About Me
 
 I'm **Sri Sai**, an AI & Data Science student interested in building practical software, exploring machine learning, and developing useful applications.
