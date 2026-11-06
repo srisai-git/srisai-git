@@ -12,17 +12,6 @@
 
 ---
 
-### 💻 Tech Stack & Tooling
-
-<!-- 3. ANIMATED TECH ICONS -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,python,fastapi,php,mysql,git,github,postman,vscode&theme=dark" />
-  </a>
-</p>
-
----
-
 <!-- 5. ANIMATED REVERSE WAVING FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=100&section=footer" width="100%" />
