@@ -1,22 +1,56 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="background: radial-gradient(circle at 50% 0%, #1e1233 0%, #0d0a14 100%); border-radius: 16px; border: 1px solid #3b2866; box-shadow: 0 10px 30px -10px rgba(139, 92, 246, 0.35); max-width: 720px; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 24px 20px 8px 20px;">
-        <!-- Top Identity Pill -->
-        <span style="display: inline-block; padding: 4px 16px; border-radius: 9999px; background: rgba(139, 92, 246, 0.15); border: 1px solid rgba(167, 139, 250, 0.4); color: #c084fc; font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;">
-          ⚡ P. SRISAI • SOFTWARE ENGINEER ⚡
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px 24px 22px 24px;">
-        <!-- Animated Typing Stream -->
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=25&duration=2800&pause=1100&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%E2%9C%A8+Architecting+Modern+Android+Apps;%E2%9A%A1+Jetpack+Compose+%E2%80%A2+Kotlin+%E2%80%A2+Clean+Architecture;%F0%9F%94%A5+Creator+of+Flow+%E2%80%94+Mindful+Productivity;%F0%9F%9A%80+Engineering+Full-Stack+Distributed+Systems" alt="P. Srisai - Professional Typing Header" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <svg width="780" height="190" viewBox="0 0 780 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradients -->
+      <linearGradient id="cyber-border" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.8"/>
+        <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.2"/>
+        <stop offset="100%" stop-color="#EC4899" stop-opacity="0.8"/>
+      </linearGradient>
+      <linearGradient id="cyber-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#0F091F"/>
+        <stop offset="100%" stop-color="#05030A"/>
+      </linearGradient>
+      <linearGradient id="neon-text" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#C084FC"/>
+        <stop offset="50%" stop-color="#818CF8"/>
+        <stop offset="100%" stop-color="#38BDF8"/>
+      </linearGradient>
+
+      <!-- Glow Filters -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- Main Card Body -->
+    <rect x="15" y="15" width="750" height="160" rx="14" fill="url(#cyber-bg)" stroke="url(#cyber-border)" stroke-width="1.5"/>
+
+    <!-- Corner Circuit Accents -->
+    <path d="M 15 35 L 15 15 L 35 15" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
+    <path d="M 765 35 L 765 15 L 745 15" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
+    <path d="M 15 155 L 15 175 L 35 175" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
+    <path d="M 765 155 L 765 175 L 745 175" stroke="#A78BFA" stroke-width="2.5" fill="none"/>
+
+    <!-- Top Status Bar -->
+    <circle cx="42" cy="40" r="4" fill="#10B981" filter="url(#glow)"/>
+    <text x="56" y="44" fill="#94A3B8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" letter-spacing="2">SYS.NODE // ONLINE • QUANTUM_CORE_V2.6</text>
+    <text x="735" y="44" fill="#6B7280" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" text-anchor="end" letter-spacing="1">ID: 0x7E3_SRISAI</text>
+    <line x1="35" y1="56" x2="745" y2="56" stroke="#2D1B4E" stroke-width="1"/>
+
+    <!-- Main Identity Header -->
+    <text x="40" y="96" fill="url(#neon-text)" font-family="'Space Grotesk', -apple-system, sans-serif" font-weight="900" font-size="30" letter-spacing="2" filter="url(#glow)">P. SRISAI</text>
+    <text x="215" y="95" fill="#6366F1" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="600">[SYS_ARCHITECT]</text>
+
+    <!-- Embedded High-Tech SVG Typing Stream -->
+    <g transform="translate(40, 115)">
+      <image href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=1000&color=A78BFA&background=00000000&vCenter=true&width=680&height=35&lines=%3E%3E+INITIALIZING+NEURAL+PIPELINE...+[READY];%3E%3E+ARCHITECTING+NEXT-GEN+ANDROID+%26+DISTRIBUTED+SYSTEMS;%3E%3E+ACTIVE_PROJECT%3A+FLOW+%E2%80%94+DEEP+WORK+OPERATING+SYSTEM;%3E%3E+STACK%3A+KOTLIN+%E2%80%A2+COMPOSE+%E2%80%A2+FASTAPI+%E2%80%A2+HILT+%E2%80%A2+ROOM" width="680" height="35"/>
+    </g>
+  </svg>
 </div>
 
 ## About Me
