@@ -44,16 +44,6 @@ A data analysis project using the Moving Average algorithm to smooth and identif
 
 **Technologies:** Python, Streamlit, Pandas, Data Visualization
 
-### 3. Cricket Players Performance Analysis
-A machine learning project applying K-Means clustering to identify performance patterns and group cricket players based on statistical attributes.
-
-**Technologies:** Python, K-Means Clustering, Machine Learning
-
-### 4. Customer Purchase Behaviour Analysis
-An analytical project combining K-Means clustering and Apriori association rule mining to explore customer segments and purchasing patterns.
-
-**Technologies:** Python, K-Means, Apriori Algorithm
-
 ---
 
 ## GitHub Statistics
@@ -66,10 +56,6 @@ An analytical project combining K-Means clustering and Apriori association rule 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=srisai-git&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="65%" alt="GitHub Contribution Streak"/>
 </p>
-
-## Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=srisai-git&bg_color=ffffff&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true)
 
 ---
 
