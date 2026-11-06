@@ -1,6 +1,12 @@
 <div align="center">
+  <!-- Top line: Fixed Identity -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&height=50&lines=%E2%9C%A8+Architecting+Modern+Android+Apps;%E2%9A%A1+Jetpack+Compose+%E2%80%A2+Clean+Architecture;%F0%9F%94%A5+Crafting+Mindful+Digital+Products;%F0%9F%9A%80+Turning+Ideas+Into+Polished+Code" alt="Gradient Glow Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=580&height=40&lines=const+developer+%3D+%22P.+Srisai%22%3B" alt="Dev Tag" />
+  </a>
+  <br/>
+  <!-- Bottom line: Dynamic action cycle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=580&height=40&lines=%3E+Building+Flow+%E2%80%94+Mindful+Productivity;%3E+Developing+context-aware+Groot+AI;%3E+Exploring+distributed+systems+%26+FastAPI;%3E+Optimizing+for+zero-friction+UX" alt="Action Typing" />
   </a>
 </div>
 
