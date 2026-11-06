@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&height=50&lines=%E2%9C%A8+Architecting+Modern+Android+Apps;%E2%9A%A1+Jetpack+Compose+%E2%80%A2+Clean+Architecture;%F0%9F%94%A5+Crafting+Mindful+Digital+Products;%F0%9F%9A%80+Turning+Ideas+Into+Polished+Code" alt="Gradient Glow Typing" />
+  </a>
+</div>
 
 ## About Me
 
