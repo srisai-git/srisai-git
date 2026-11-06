@@ -1,16 +1,8 @@
 <p align="center">
-  <img src="assets/sri-sai-animated-header.gif" alt="Sri Sai — AI & Data Science Student and Developer" width="100%" />
+  <img src="./sri-sai-animated-header.gif"
+       alt="Sri Sai — AI & Data Science Student and Developer"
+       width="100%" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/srisai-git"><img src="https://img.shields.io/badge/GitHub-srisai--git-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:saiprince7329@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1100&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Developer+%7C+Problem+Solver;Building+useful+things+with+code;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction" />
-</p>
-
 ---
 
 ## About Me
