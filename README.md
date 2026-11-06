@@ -52,23 +52,7 @@ A data analysis project exploring Chennai weather patterns from 2020–2024 usin
 
 **Tech:** Python · Pandas · Streamlit · Data visualization
 
-### Cricket Performance & Customer Purchase Analysis
-Machine-learning and data-mining projects using K-Means clustering and Apriori association-rule mining to explore player performance and customer purchasing patterns.
-
-**Tech:** Python · Scikit-learn · K-Means · Apriori
-
 ---
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srisai-git&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155&icon_color=2563EB&rank_icon=github" alt="Sri Sai's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisai-git&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srisai-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0B1F3A&sideLabels=334155&currStreakNum=0B1F3A&sideNums=0B1F3A&dates=64748B" alt="GitHub contribution streak" />
-</p>
 
 ## Contribution Activity
 
