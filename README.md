@@ -1,3 +1,46 @@
+<!-- 1. ANIMATED WAVING HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=180&section=header&text=P.%20Srisai&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=A78BFA" width="100%" />
+</div>
+
+<!-- 2. ANIMATED DYNAMIC TYPING HEADER -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Srisai+%F0%9F%91%8B;Android+%26+Backend+Developer;Building+FocusFlow+%F0%9F%93%B1;Jetpack+Compose+%2B+Clean+Architecture" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+### 💻 Tech Stack & Tooling
+
+<!-- 3. ANIMATED TECH ICONS -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,python,fastapi,php,mysql,git,github,postman,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<!-- 4. ANIMATED CONTRIBUTION SNAKE (Requires the GitHub Action workflow setup below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- 5. ANIMATED REVERSE WAVING FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=100&section=footer" width="100%" />
+</div>
+
 <p align="center">
   <img src="./SRI SAI AI Data Science Banner.png"
        width="100%"
