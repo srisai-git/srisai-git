@@ -1,13 +1,22 @@
 <div align="center">
-  <!-- Top line: Fixed Identity -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=580&height=40&lines=const+developer+%3D+%22P.+Srisai%22%3B" alt="Dev Tag" />
-  </a>
-  <br/>
-  <!-- Bottom line: Dynamic action cycle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=580&height=40&lines=%3E+Building+Flow+%E2%80%94+Mindful+Productivity;%3E+Developing+context-aware+Groot+AI;%3E+Exploring+distributed+systems+%26+FastAPI;%3E+Optimizing+for+zero-friction+UX" alt="Action Typing" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0" style="background: radial-gradient(circle at 50% 0%, #1e1233 0%, #0d0a14 100%); border-radius: 16px; border: 1px solid #3b2866; box-shadow: 0 10px 30px -10px rgba(139, 92, 246, 0.35); max-width: 720px; width: 100%;">
+    <tr>
+      <td align="center" style="padding: 24px 20px 8px 20px;">
+        <!-- Top Identity Pill -->
+        <span style="display: inline-block; padding: 4px 16px; border-radius: 9999px; background: rgba(139, 92, 246, 0.15); border: 1px solid rgba(167, 139, 250, 0.4); color: #c084fc; font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;">
+          ⚡ P. SRISAI • SOFTWARE ENGINEER ⚡
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px 24px 22px 24px;">
+        <!-- Animated Typing Stream -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=25&duration=2800&pause=1100&color=C084FC&center=true&vCenter=true&width=650&height=50&lines=%E2%9C%A8+Architecting+Modern+Android+Apps;%E2%9A%A1+Jetpack+Compose+%E2%80%A2+Kotlin+%E2%80%A2+Clean+Architecture;%F0%9F%94%A5+Creator+of+Flow+%E2%80%94+Mindful+Productivity;%F0%9F%9A%80+Engineering+Full-Stack+Distributed+Systems" alt="P. Srisai - Professional Typing Header" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## About Me
