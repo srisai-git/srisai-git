@@ -33,12 +33,6 @@ Computer Science & Engineering student building clean, thoughtful Android applic
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages" width="45%" />
-</div>
 
 <br/>
 
