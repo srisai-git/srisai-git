@@ -1,27 +1,8 @@
-<!-- 1. ANIMATED WAVING HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=180&section=header&text=P.%20Srisai&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=A78BFA" width="100%" />
-</div>
-
-<!-- 2. ANIMATED DYNAMIC TYPING HEADER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Srisai+%F0%9F%91%8B;Android+%26+Backend+Developer;Building+FocusFlow+%F0%9F%93%B1;Jetpack+Compose+%2B+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Engineering+Mindful+Software;Android+%E2%80%A2+Clean+Architecture+%E2%80%A2+AI;Transforming+Ideas+Into+Shipped+Products" alt="Modern Glow Typing SVG" />
   </a>
 </div>
-
----
-
-<!-- 5. ANIMATED REVERSE WAVING FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=100&section=footer" width="100%" />
-</div>
-
-<p align="center">
-  <img src="./SRI SAI AI Data Science Banner.png"
-       width="100%"
-       alt="Sri Sai - AI & Data Science"/>
-</p>
 
 ## About Me
 
