@@ -32,13 +32,3 @@ Computer Science & Engineering student building clean, thoughtful Android applic
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D0B14&ring=8B5CF6&fire=A78BFA&currStreakNum=E2E8F0" alt="GitHub Streak" width="94%" />
-</div>
-
----
-
