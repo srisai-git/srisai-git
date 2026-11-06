@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=%3E_++initializing+srisai.dev...;%3E_++architecting+native+android+experiences;%3E_++designing+clean+apis+%26+smart+tooling;%3E_++optimizing+for+deep+work+%26+flow" alt="Terminal Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Srisai+%F0%9F%91%8B;Android+%26+Backend+Developer;Building+Flow+%E2%80%94+Mindful+Productivity;Crafting+with+Kotlin%2C+Compose+%26+Python" alt="Typing SVG" />
   </a>
 </div>
 
