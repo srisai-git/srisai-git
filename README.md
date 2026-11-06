@@ -1,8 +1,16 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Srisai+%F0%9F%91%8B;Android+%26+Backend+Developer;Building+Flow+%E2%80%94+Mindful+Productivity;Crafting+with+Kotlin%2C+Compose+%26+Python" alt="Typing SVG" />
-  </a>
-</div>
+  <table border="0" cellpadding="0" cellspacing="0" style="background-color: #0E0B16; border-radius: 12px; border: 1px solid #261F3D;">
+    <tr>
+      <td style="padding: 12px 16px 0px 16px;">
+        <span style="color: #FF5F56; font-size: 16px; margin-right: 4px;">●</span>
+        <span style="color: #FFBD2E; font-size: 16px; margin-right: 4px;">●</span>
+        <span style="color: #27C93F; font-size: 16px;">●</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px 24px 18px 24px;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=1100&color=A78BFA&background=0E0B1600&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+P.+Srisai+%F0%9F%91%BD;%24+status+%E2%86%92+Engineering+Flow+Android+App;%24+stack+%E2%86%92+Kotlin+%7C+Compose+%7C+Hilt+%7C+Room;%24+mindset+%E2%86%92+Deep+Work+%2B+Clean+Architecture" alt="Terminal
 
 ## About Me
 
