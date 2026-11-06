@@ -1,43 +1,84 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="background: radial-gradient(circle at 10% 10%, #1f1238 0%, #08060c 90%); border: 1.5px solid #4c2889; border-radius: 16px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.25), inset 0 0 15px rgba(139, 92, 246, 0.1); width: 100%; max-width: 800px;">
-    <tr>
-      <td style="padding: 16px 24px 10px 24px;">
-        <table width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <!-- Left HUD Indicators -->
-            <td align="left">
-              <span style="display: inline-block; width: 7px; height: 7px; background: #00F0FF; border-radius: 50%; box-shadow: 0 0 8px #00F0FF; margin-right: 6px;"></span>
-              <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #818CF8; letter-spacing: 2.5px; font-weight: 700;">DEV_TERMINAL // AUTH_ACTIVE</span>
-            </td>
-            <!-- Right Telemetry -->
-            <td align="right">
-              <span style="border: 1px solid #6366F1; padding: 2px 8px; border-radius: 4px; font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #C084FC; letter-spacing: 1px;">LATENCY: 12ms</span>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 4px 24px 8px 24px;">
-        <div style="height: 1px; width: 100%; background: linear-gradient(90deg, #8B5CF6 0%, rgba(59, 130, 246, 0.3) 50%, transparent 100%);"></div>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 10px 24px 4px 24px;">
-        <span style="font-family: 'Space Grotesk', sans-serif; font-size: 32px; font-weight: 900; letter-spacing: 3px; color: #FFFFFF; text-shadow: 0 0 15px rgba(167, 139, 250, 0.7);">
-          P. SRISAI <span style="font-size: 14px; font-family: 'JetBrains Mono', monospace; color: #00F0FF; vertical-align: middle; margin-left: 8px;">[ENGINEER]</span>
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 0px 24px 20px 24px;">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=38BDF8&center=false&vCenter=true&width=720&height=35&lines=%E2%96%B6+deploying+scalable+native+android+solutions;%E2%96%B6+creator+of+Flow+%E2%80%94+engineering+focus+%26+mindful+state;%E2%96%B6+synthesizing+jetpack+compose%2C+python+backends+%26+groot+ai;%E2%96%B6+optimizing+algorithmic+efficiency+%26+system+latency" alt="Terminal Matrix Typing" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+  <svg width="840" height="230" viewBox="0 0 840 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Background Cyber Matrix Pattern -->
+      <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+        <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#8B5CF6" stroke-width="0.75" stroke-opacity="0.12"/>
+      </pattern>
+
+      <!-- Glow Filters -->
+      <filter id="neon-glow-violet" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="5" result="blur1"/>
+        <feGaussianBlur stdDeviation="12" result="blur2"/>
+        <feMerge>
+          <feMergeNode in="blur2"/>
+          <feMergeNode in="blur1"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+
+      <filter id="cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+
+      <!-- Linear Gradients -->
+      <linearGradient id="frame-grad" x1="0" y1="0" x2="840" y2="230" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#A855F7"/>
+        <stop offset="40%" stop-color="#3B82F6" stop-opacity="0.2"/>
+        <stop offset="70%" stop-color="#06B6D4" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#8B5CF6"/>
+      </linearGradient>
+
+      <linearGradient id="core-bg" x1="0" y1="0" x2="0" y2="230" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#0D061A"/>
+        <stop offset="100%" stop-color="#030206"/>
+      </linearGradient>
+
+      <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FFFFFF"/>
+        <stop offset="35%" stop-color="#E9D5FF"/>
+        <stop offset="70%" stop-color="#C084FC"/>
+        <stop offset="100%" stop-color="#38BDF8"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Main Chassis Frame with Chamfered Tech Corners -->
+    <path d="M 25 10 
+             L 815 10 
+             L 830 25 
+             L 830 205 
+             L 815 220 
+             L 25 220 
+             L 10 205 
+             L 10 25 Z" 
+          fill="url(#core-bg)" 
+          stroke="url(#frame-grad)" 
+          stroke-width="1.8"/>
+
+    <!-- Grid Texture Overlay -->
+    <path d="M 25 10 L 815 10 L 830 25 L 830 205 L 815 220 L 25 220 L 10 205 L 10 25 Z" fill="url(#grid)"/>
+
+    <!-- Top Left Futuristic Brackets -->
+    <path d="M 10 50 L 10 25 L 25 10 L 55 10" stroke="#C084FC" stroke-width="2.5" fill="none" filter="url(#neon-glow-violet)"/>
+    <rect x="62" y="8" width="18" height="4" fill="#38BDF8" filter="url(#cyan-glow)"/>
+
+    <!-- Bottom Right Brackets -->
+    <path d="M 830 180 L 830 205 L 815 220 L 785 220" stroke="#C084FC" stroke-width="2.5" fill="none" filter="url(#neon-glow-violet)"/>
+    <rect x="760" y="218" width="18" height="4" fill="#A855F7"/>
+
+    <!-- Top Telemetry & System Header Row -->
+    <g transform="translate(32, 34)">
+      <!-- Pulsing Node Indicator -->
+      <circle cx="6" cy="6" r="4.5" fill="#22C55E" filter="url(#cyan-glow)"/>
+      <circle cx="6" cy="6" r="8" stroke="#22C55E" stroke-width="0.75" stroke-opacity="0.6"/>
+      <text x="24" y="10" fill="#E2E8F0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" letter-spacing="2.5">CORE.SYS // SECURE EXECUTION CONTEXT</text>
+
+      <!-- Right Telemetry Chips -->
+      <text x="770" y="10" fill="#A78BFA" font-family="'JetBrains Mono',
 
 ## About Me
 
