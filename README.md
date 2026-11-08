@@ -1,5 +1,5 @@
 
-## About Me
+## About 
 
 I'm **Sri Sai**, an AI & Data Science student interested in building practical software, exploring machine learning, and developing useful applications.
 
