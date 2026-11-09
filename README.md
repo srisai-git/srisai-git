@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=AI+%26+Data+Science+Student+%7C+Developer;Building+with+Python%2C+Kotlin+%26+Machine+Learning;Exploring+ideas+through+code." alt="Bio Typing" />
 </p>
+
 ## About Me
 
 I'm **Sri Sai**, an AI & Data Science student interested in building practical software, exploring machine learning, and developing useful applications.
