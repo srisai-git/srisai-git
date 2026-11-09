@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="header.svg" alt="P. Srisai Header" width="100%" />
+</div>
 
 ## About Me
 
