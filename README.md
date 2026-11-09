@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sai-git/sai-git/main/header.svg" alt="P. Srisai Header" width="100%" />
-</div>
+
 
 ## About Me
 
