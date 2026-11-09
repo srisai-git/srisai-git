@@ -1,21 +1,12 @@
-<div align="center">
-  <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="200" rx="14" fill="#080410" stroke="#7C3AED" stroke-width="1.8"/>
-    <circle cx="32" cy="30" r="4" fill="#00F0FF"/>
-    <text x="46" y="34" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="11" letter-spacing="2">PORTFOLIO // ONLINE</text>
-    <text x="768" y="34" fill="#A78BFA" font-family="'Fira Code', monospace" font-size="11" text-anchor="end">DEV.CORE</text>
-    <line x1="32" y1="46" x2="768" y2="46" stroke="#2E1065" stroke-width="1"/>
-    
-    <text x="400" y="102" fill="#38BDF8" font-family="'Montserrat', sans-serif" font-weight="900" font-size="42" letter-spacing="4" text-anchor="middle">P. SRISAI</text>
-    <line x1="280" y1="120" x2="520" y2="120" stroke="#4C1D95" stroke-width="1.5"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=40&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=860&height=70&lines=P.+SRISAI" alt="P. Srisai" />
+  </a>
+</h1>
 
-    <foreignObject x="50" y="132" width="700" height="50">
-      <div xmlns="http://www.w3.org/1999/xhtml" align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=15&amp;duration=3600&amp;pause=1200&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=AI+%26+Data+Science+Student+%7C+Developer;Building+with+Python%2C+Kotlin+%26+Machine+Learning;Exploring+ideas+through+code." alt="Bio"/>
-      </div>
-    </foreignObject>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=AI+%26+Data+Science+Student+%7C+Developer;Building+with+Python%2C+Kotlin+%26+Machine+Learning;Exploring+ideas+through+code." alt="Bio Typing" />
+</p>
 ## About Me
 
 I'm **Sri Sai**, an AI & Data Science student interested in building practical software, exploring machine learning, and developing useful applications.
