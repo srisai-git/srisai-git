@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi, I'm Sri Sai</h1>
-<h3 align="center">AI & Data Science Student | Aspiring AI Engineer</h3>
+<h3 align="center">AI & Data Science Student</h3>
 
 <p align="center">
-  Building with Data • Exploring AI • Creating Solutions
+  Exploring AI • Learning Machine Learning • Building Projects
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Turning+Data+into+Insights;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Working+with+Data;Building+and+Experimenting" />
 </p>
 
 
